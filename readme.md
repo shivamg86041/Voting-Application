@@ -5,10 +5,6 @@
 
 -----------------------------------------------------------
 
-# Models ?
-
------------------------------------------------------------
-
 # Voting app functionality
 - User Sign in / Sign Up
 - See the list of candidates
